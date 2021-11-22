@@ -1,0 +1,16 @@
+{
+    "DB_CONNECTION":{
+        "URI":"mongodb+srv://iheb:22422438@cluster0.ewjpg.mongodb.net/auth?retryWrites=true&w=majority"
+    },
+    "SERVER_CONFIG":{
+        "PORT":9000
+    },
+    "JWT_CONFIG":{
+    "SECRET": "MYAPP"
+    },
+  "REACT_APP_MAPBOX_API_KEY":{
+      "URI":"https://api.mapbox.com/geocoding/v5/mapbox.places/Los%20Angeles.json?access_token=YOUR_MAPBOX_ACCESS_TOKEN"
+
+  }
+   
+}
