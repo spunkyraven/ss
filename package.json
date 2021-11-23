@@ -4,6 +4,7 @@
   "main": "server.js",
   "scripts": {
     "server": "nodemon server.js",
+    "start:dev": "nodemon server.js",
     "client": "cd client && npm start",
     "install-client": "cd client && npm install",
     "build": "cd client && npm run build",
