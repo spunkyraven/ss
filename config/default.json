@@ -9,7 +9,7 @@
     "SECRET": "MYAPP"
     },
   "REACT_APP_MAPBOX_API_KEY":{
-      "URI":"https://api.mapbox.com/geocoding/v5/mapbox.places/Los%20Angeles.json?access_token=YOUR_MAPBOX_ACCESS_TOKEN"
+      "URI":"http://api.mapbox.com/geocoding/v5/mapbox.places/Los%20Angeles.json?access_token=YOUR_MAPBOX_ACCESS_TOKEN"
 
   }
    

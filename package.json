@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": { 
-    "server": "web: server.js",
+    "server": "nodemon server.js",
     "client": "cd client && npm start",
     "install-client": "cd client && npm install",
-    "build": "cd client && npm run build",
+    "build": "cd client && npm run build", 
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "start": "concurrently \"npm run server\" \"npm run client\"",
     "heroku-postbuild": "npm run install-client && npm run build"

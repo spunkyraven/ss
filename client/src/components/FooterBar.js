@@ -15,7 +15,7 @@ const FooterBar = () => {
 
         <Col className="social-links">
           <a
-            href="https://github.com/spunkyraven"
+            href="http://github.com/spunkyraven"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -23,14 +23,14 @@ const FooterBar = () => {
           </a>
 
           <a
-            href="https://www.facebook.com/Spunky22.01/"
+            href="http://www.facebook.com/Spunky22.01/"
             target="_blank"
             rel="noopener noreferrer"
           >
             <i className="bi bi-facebook"></i>
           </a>
           <a
-            href="https://www.linkedin.com/in/iheb-kanzari-67890b120/"
+            href="http://www.linkedin.com/in/iheb-kanzari-67890b120/"
             target="_blank"
             rel="noopener noreferrer"
           >

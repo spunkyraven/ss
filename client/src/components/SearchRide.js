@@ -17,7 +17,7 @@ import {
 } from "../redux/actions/tripActions";
 
 const mapBoxToken =
-  "https://api.mapbox.com/geocoding/v5/mapbox.places/Los%20Angeles.json?access_token=YOUR_MAPBOX_ACCESS_TOKEN";
+  "http://api.mapbox.com/geocoding/v5/mapbox.places/Los%20Angeles.json?access_token=YOUR_MAPBOX_ACCESS_TOKEN";
 
 const SearchRide = () => {
   const [from, setFrom] = useState("");
